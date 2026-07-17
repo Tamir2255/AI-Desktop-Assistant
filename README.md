@@ -138,8 +138,8 @@ Window transparency, rounded corners, volume/lock/shutdown controls, and shortcu
 
 ## 📄 License
 
-Add your own license terms here before distributing to buyers (e.g. single-use commercial license, resale rights, attribution requirements).
+To Be Added
 
 ---
 
-*Questions or support requests: add your contact/support info here.*
+*Questions or support requests: add your contact/ vexor2255@gmail.com.*
